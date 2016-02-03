@@ -1,3 +1,4 @@
 [
-	{ "keys": ["alt+c"], "command": "callback_function", "context": [{ "key": "selector", "operator": "equal", "operand": "source.js" }] }
+	{ "keys": ["alt+c"], "command": "callback_function", "context": [{ "key": "selector", "operator": "equal", "operand": "source.js" }] },
+	{ "keys": ["alt+shift+c"], "command": "named_callback_function", "context": [{ "key": "selector", "operator": "equal", "operand": "source.js" }] }
 ]
